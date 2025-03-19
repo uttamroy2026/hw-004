@@ -1,0 +1,14 @@
+.am{
+color:red;
+font-size: 20px;
+background-color: yellow;
+}
+table,th,td{
+border:5px solid black;
+}
+#student{
+color: blue;
+background-color: tomato;
+font-size: 25px;
+font-family:serif;
+}
